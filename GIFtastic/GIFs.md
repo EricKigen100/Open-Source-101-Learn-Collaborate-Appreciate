@@ -55,3 +55,7 @@ This category is for GIFs that relate to animals or pets. You can use any subcat
 
 ### movies
 ![avengers](https://media.giphy.com/media/13kajTax0GCg0g/giphy.gif)
+
+### FOOTBALL
+![GIF](https://media.giphy.com/media/UsqYYUYFqV7NwA7vxB/giphy.gif)
+
