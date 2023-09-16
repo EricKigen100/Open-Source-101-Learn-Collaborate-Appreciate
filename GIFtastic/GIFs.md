@@ -51,3 +51,7 @@ This category is for GIFs that relate to superheros or comic books. You can use 
 ### Animals
 
 This category is for GIFs that relate to animals or pets. You can use any subcategory that relates to species, breeds, habitats, etc.
+
+
+### movies
+![avengers](https://media.giphy.com/media/13kajTax0GCg0g/giphy.gif)
